@@ -1,4 +1,4 @@
-package LoginPage;
+package TestCases;
 
 import static org.testng.Assert.assertEquals;
 
